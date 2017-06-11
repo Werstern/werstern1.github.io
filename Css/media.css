@@ -1,0 +1,20 @@
+
+@media (min-width:320px) and (max-width: 800px) {
+    .container {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    .float_right, .float_left {
+        float: none;
+    }
+    section.main .best_articles .top_posts .post_mini {
+        width: 100%;
+    }
+    .community {
+        float: right;
+    }
+    footer {
+        margin-top: 45px;
+        margin-bottom: 35px;
+    }
+}
